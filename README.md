@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/iviIq2uXz-kAAAAj/work-office.gif">
 </br>
 </br></br>
-<h3 align="center">A passionate frontend developer from Tunisia</h3>
+<h3 align="center">A passionate full stack developer from Tunisia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=demonmimi&label=Profile%20views&color=0e75b6&style=flat" alt="demonmimi" /> </p>
 
