@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Angular, Android, SpringBoot**
+- 💬 Ask me about **AI**
 
 - 📫 How to reach me **malekbenkhlifa84@gmail.com**
 
