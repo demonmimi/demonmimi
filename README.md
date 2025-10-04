@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **malekbenkhlifa84@gmail.com**
 
-- ⚡ Fun fact **I love cats**
+- ⚡ Fun fact **I love Penguins**
 
 </br>
 
